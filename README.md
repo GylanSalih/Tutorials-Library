@@ -2,23 +2,15 @@
 
 Welcome to the **Tutorials Library**! This repository contains a collection of tutorials and learning resources across various topics, designed to help developers and learners enhance their skills. Whether you're just starting out or looking to deepen your knowledge, you'll find valuable resources here.
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Tutorials](#tutorials)
-  - [VPS Configuration Tutorial](#vps-configuration-tutorial)
-  - [Web Development Basics](#web-development-basics)
-  - [Advanced Node.js](#advanced-nodejs)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
 # Tutorials
 
 1. [VPS Configuration Tutorial](https://github.com/GylanSalih/Tutorials-Library/blob/main/HowToConfigVPS/HowToConfigVPS.md)  
    Learn how to configure a VPS for your applications, including setting up a server, configuring web servers, and installing necessary software.
 
 ## Contributing
+
+<details>
+  <summary>Click to expand</summary>
 
 We welcome contributions! If you'd like to add a new tutorial or improve an existing one, follow these steps:
 
@@ -31,13 +23,25 @@ We welcome contributions! If you'd like to add a new tutorial or improve an exis
 
 Please ensure that your tutorials are well-organized and written in Markdown.
 
+</details>
+
 ## License
+
+<details>
+  <summary>Click to expand</summary>
 
 This repository is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+</details>
+
 ## Contact
+
+<details>
+  <summary>Click to expand</summary>
 
 For questions, suggestions, or contributions, feel free to reach out:
 
 - **Email**: your.email@example.com
 - **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
+
+</details>
