@@ -59,7 +59,7 @@
 
 
 <details>
-  <summary><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Pushpin.png" alt="Pushpin" width="25" height="25" />  2. Clone the Project and Install Dependencies</h2></summary>
+    <summary><h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Pushpin.png" alt="Pushpin" width="25" height="25" /> 2. Clone the Project and Install Dependencies
   
 - **Clone the Git Repository:**
   ```bash
