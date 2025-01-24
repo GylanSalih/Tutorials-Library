@@ -21,7 +21,7 @@ We welcome contributions! If you'd like to add a new tutorial or improve an exis
 6. Create a new Pull Request
 
 Please ensure that your tutorials are well-organized and written in Markdown.
-
+</details>
 
 <details>
   <summary><h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Cat%20with%20Heart-Eyes.png" alt="Smiling Cat with Heart-Eyes" width="25" height="25" />  License</h2></summary>
@@ -30,9 +30,9 @@ This repository is licensed under the MIT License - see the [LICENSE](LICENSE) f
 
 </details>
 
-## Contact
-
 <details>
+  <summary><h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Cat%20with%20Heart-Eyes.png" alt="Smiling Cat with Heart-Eyes" width="25" height="25" />  Contact</h2></summary>
+
   <summary>Click to expand</summary>
 
 For questions, suggestions, or contributions, feel free to reach out:
