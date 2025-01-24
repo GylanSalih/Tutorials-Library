@@ -304,7 +304,7 @@ Add the following line to update every 10 minutes:
 
 
 <details>
-  <summary><h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Keycap%20Digit%20Eight.png" alt="Keycap Digit Eight" width="25" height="25" /> 8. GitHub Webhook (Optional)</h2></summary>
+  <summary><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Pushpin.png" alt="Pushpin" width="25" height="25" /> 8. GitHub Webhook (Optional)</h2></summary>
 
 
 If you'd like to use GitHub webhooks to automatically update the repository, you need to set up an Express server to listen for `POST` requests.
