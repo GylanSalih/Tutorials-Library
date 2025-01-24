@@ -30,14 +30,3 @@ This repository is licensed under the MIT License - see the [LICENSE](LICENSE) f
 
 </details>
 
-<details>
-  <summary><h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Cat%20with%20Heart-Eyes.png" alt="Smiling Cat with Heart-Eyes" width="25" height="25" />  Contact</h2></summary>
-
-  <summary>Click to expand</summary>
-
-For questions, suggestions, or contributions, feel free to reach out:
-
-- **Email**: your.email@example.com
-- **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
-
-</details>
