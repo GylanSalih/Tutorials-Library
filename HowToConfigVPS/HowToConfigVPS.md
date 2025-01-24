@@ -24,7 +24,7 @@
 # Step-by-Step Guide
 
 <details>
-  <summary><h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Keycap%20Digit%20One.png" alt="Keycap Digit One" width="25" height="25" /> 1. Preparing the VP</summary>
+  <summary><h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Pushpin.png" alt="Pushpin" width="25" height="25" /> 1. Preparing the VP</summary>
 
   - **Update and Install Dependencies:**
   
@@ -59,7 +59,7 @@
 
 
 <details>
-  <summary><h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Keycap%20Digit%20Two.png" alt="Keycap Digit Two" width="25" height="25" />  2. Clone the Project and Install Dependencies</h2></summary>
+  <summary><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Pushpin.png" alt="Pushpin" width="25" height="25" />  2. Clone the Project and Install Dependencies</h2></summary>
   
 - **Clone the Git Repository:**
   ```bash
@@ -78,7 +78,7 @@
 </details>
 
 <details>
-  <summary><h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Keycap%20Digit%20Three.png" alt="Keycap Digit Three" width="25" height="25" /> 3. Start the Next.js Application
+  <summary><h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Pushpin.png" alt="Pushpin" width="25" height="25" /> 3. Start the Next.js Application
 </h2></summary>
 
 - **Start with PM2:**
@@ -96,7 +96,7 @@
 
 
 <details>
-  <summary><h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Keycap%20Digit%20Four.png" alt="Keycap Digit Four" width="25" height="25" /> 4. Clone the Project and Install Dependencies</h2></summary>
+  <summary><h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Pushpin.png" alt="Pushpin" width="25" height="25" /> 4. Clone the Project and Install Dependencies</h2></summary>
 
 - **Clone your Git repository**:
   
@@ -119,7 +119,7 @@
 
 
 <details>
-  <summary><h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Keycap%20Digit%20Five.png" alt="Keycap Digit Five" width="25" height="25" /> 5. Create SSL Certificate Using Certbot (Let's Encrypt)</h2></summary>
+  <summary><h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Pushpin.png" alt="Pushpin" width="25" height="25" /> 5. Create SSL Certificate Using Certbot (Let's Encrypt)</h2></summary>
 
 To create an SSL certificate for your domain using Certbot, follow these steps:
 
@@ -186,7 +186,7 @@ To create an SSL certificate for your domain using Certbot, follow these steps:
 
 
 <details>
-  <summary><h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Keycap%20Digit%20Six.png" alt="Keycap Digit Six" width="25" height="25" /> 6. Configure Apache as a Reverse Proxy (Optional)</h2></summary>
+  <summary><h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Pushpin.png" alt="Pushpin" width="25" height="25" /> 6. Configure Apache as a Reverse Proxy (Optional)</h2></summary>
 
 - **Install Apache:**
 
@@ -286,7 +286,7 @@ To create an SSL certificate for your domain using Certbot, follow these steps:
 
 
 <details>
-  <summary><h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Keycap%20Digit%20Seven.png" alt="Keycap Digit Seven" width="25" height="25" /> 7. Automate Updates with Cron (Optional)</h2></summary>
+  <summary><h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Pushpin.png" alt="Pushpin" width="25" height="25" /> 7. Automate Updates with Cron (Optional)</h2></summary>
 
 To ensure that the Git repository is automatically updated, you can set up a cron job to run `git pull` every 10 minutes:
 
@@ -352,7 +352,7 @@ If you'd like to use GitHub webhooks to automatically update the repository, you
 
 
 <details>
-  <summary><h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Keycap%20Digit%20Nine.png" alt="Keycap Digit Nine" width="25" height="25" /> 9. Manually Update the Repository</h2></summary>
+  <summary><h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Pushpin.png" alt="Pushpin" width="25" height="25" /> 9. Manually Update the Repository</h2></summary>
 
 If you want to manually update the repository, follow these steps:
 
