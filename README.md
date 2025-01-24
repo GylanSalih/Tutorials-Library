@@ -9,7 +9,7 @@ Welcome to the **Tutorials Library**! This repository contains a collection of t
 
 
 <details>
-  <summary><h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Cat%20with%20Heart-Eyes.png" alt="Smiling Cat with Heart-Eyes" width="25" height="25" />  Contributing</h2></summary>
+  <summary><h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="25" height="25" />  Contributing</h2></summary>
 
 We welcome contributions! If you'd like to add a new tutorial or improve an existing one, follow these steps:
 
@@ -24,7 +24,7 @@ Please ensure that your tutorials are well-organized and written in Markdown.
 </details>
 
 <details>
-  <summary><h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Cat%20with%20Heart-Eyes.png" alt="Smiling Cat with Heart-Eyes" width="25" height="25" />  License</h2></summary>
+  <summary><h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="25" height="25" />  License</h2></summary>
 
 This repository is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
