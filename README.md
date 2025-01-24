@@ -13,26 +13,6 @@ Welcome to the **Tutorials Library**! This repository contains a collection of t
 - [License](#license)
 - [Contact](#contact)
 
-## Introduction
-
-This repository aims to compile various tutorials on topics ranging from basic setups to more advanced programming techniques. All tutorials are written in Markdown format (`.md`), so they are easy to read and modify.
-
-## Getting Started
-
-To get started with this repository, simply clone it to your local machine:
-
-```bash
-git clone https://github.com/yourusername/tutorials-library.git
-```
-
-Then navigate into the directory:
-
-```bash
-cd tutorials-library
-```
-
-Open any of the tutorial files (e.g., `HowToConfigVPS.md`) to begin learning!
-
 # Tutorials
 
 1. [VPS Configuration Tutorial](https://github.com/GylanSalih/Tutorials-Library/blob/main/HowToConfigVPS/HowToConfigVPS.md)  
