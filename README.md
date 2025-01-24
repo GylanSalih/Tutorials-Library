@@ -5,7 +5,6 @@ Welcome to the **Tutorials Library**! This repository contains a collection of t
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Getting Started](#getting-started)
 - [Tutorials](#tutorials)
   - [VPS Configuration Tutorial](#vps-configuration-tutorial)
   - [Web Development Basics](#web-development-basics)
@@ -34,39 +33,10 @@ cd tutorials-library
 
 Open any of the tutorial files (e.g., `HowToConfigVPS.md`) to begin learning!
 
-## Tutorials
+# Tutorials
 
-Here are some of the tutorials available in the repository:
-
-### VPS Configuration Tutorial
-
-- **Description**: This tutorial walks you through the steps of configuring a Virtual Private Server (VPS) for your applications.
-- **Topics Covered**:
-  - Setting up a VPS
-  - Configuring Nginx and Apache
-  - Installing necessary software and dependencies
-
-You can find this tutorial in the `HowToConfigVPS.md` file.
-
-### Web Development Basics
-
-- **Description**: A beginner-friendly guide to getting started with web development.
-- **Topics Covered**:
-  - HTML, CSS, and JavaScript basics
-  - Setting up a development environment
-  - Building your first webpage
-
-Check out this tutorial in the `WebDevBasics.md` file.
-
-### Advanced Node.js
-
-- **Description**: Dive deep into Node.js with this advanced tutorial that covers topics like asynchronous programming, stream handling, and performance optimization.
-- **Topics Covered**:
-  - Node.js Event Loop
-  - Working with Streams
-  - Performance Tuning for Node.js apps
-
-Find this tutorial in the `AdvancedNodeJS.md` file.
+1. [VPS Configuration Tutorial](https://github.com/GylanSalih/Tutorials-Library/blob/main/HowToConfigVPS/HowToConfigVPS.md)  
+   Learn how to configure a VPS for your applications, including setting up a server, configuring web servers, and installing necessary software.
 
 ## Contributing
 
@@ -91,8 +61,3 @@ For questions, suggestions, or contributions, feel free to reach out:
 
 - **Email**: your.email@example.com
 - **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
-
----
-
-Happy learning and coding!
-```
