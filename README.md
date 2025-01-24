@@ -8,7 +8,6 @@ Welcome to the **Tutorials Library**! This repository contains a collection of t
    Learn how to configure a VPS for your applications, including setting up a server, configuring web servers, and installing necessary software.
 
 
-## Contributing
 <details>
   <summary><h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Cat%20with%20Heart-Eyes.png" alt="Smiling Cat with Heart-Eyes" width="25" height="25" />  Contributing</h2></summary>
 
@@ -23,7 +22,7 @@ We welcome contributions! If you'd like to add a new tutorial or improve an exis
 
 Please ensure that your tutorials are well-organized and written in Markdown.
 
-## License
+
 <details>
   <summary><h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Cat%20with%20Heart-Eyes.png" alt="Smiling Cat with Heart-Eyes" width="25" height="25" />  License</h2></summary>
 
