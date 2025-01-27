@@ -1,7 +1,3 @@
-**OSI and TCP/IP Models**
-
----
-
 # Understanding the OSI and TCP/IP Models 🌐
 
 Welcome to the comprehensive guide on the **OSI** (Open Systems Interconnection) and **TCP/IP** (Transmission Control Protocol/Internet Protocol) models. This guide is aimed at helping you understand the fundamental concepts, layers, and differences between these two crucial models in computer networking.
@@ -137,4 +133,3 @@ The **OSI** and **TCP/IP** models are foundational frameworks in networking. Whi
 ## Author ✍️
 This README was written by **[Mahan Rahmani](https://github.com/mhnrhmni)**. If you found this helpful or have questions, feel free to reach out!
 
---- 
