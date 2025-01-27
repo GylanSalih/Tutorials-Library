@@ -1,6 +1,10 @@
 # 🌟 IT Knowledge Hub: Learn & Collaborate! 🌟  
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/065a7b4a-db15-483c-bd8a-51655b90e43f" alt="File Sorter Logo" width="300">
+</p>
 
-Welcome to the **IT Knowledge Hub**, your one-stop repository for learning and sharing various topics in the field of Information Technology! Whether you're a beginner or a seasoned professional, this repository is designed to help you grow, explore, and contribute to the ever-expanding world of IT.  
+
+Welcome to the **Tutorial Library**, your one-stop repository for learning and sharing various topics in the field of Information Technology! Whether you're a beginner or a seasoned professional, this repository is designed to help you grow, explore, and contribute to the ever-expanding world of IT.  
 
 Join us in creating a collaborative learning environment! 🚀  
 
