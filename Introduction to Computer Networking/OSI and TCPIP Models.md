@@ -6,7 +6,7 @@ Welcome to the comprehensive guide on the **OSI** (Open Systems Interconnection)
 
 ## Table of Contents
 1. [What is the OSI Model?](#what-is-the-osi-model)
-2. [The Seven Layers of the OSI Model](#the-seven-layers-of-the-osi-model)
+2. [The Seven Layers of the OSI Model](##the-seven-layers-of-the-osi-model)
 3. [What is the TCP/IP Model?](#what-is-the-tcpip-model)
 4. [The Four Layers of the TCP/IP Model](#the-four-layers-of-the-tcpip-model)
 5. [Comparison: OSI vs. TCP/IP Models](#comparison-osi-vs-tcpip-models)
