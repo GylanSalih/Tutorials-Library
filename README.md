@@ -95,7 +95,3 @@ This project is licensed under the **MIT License**. Feel free to use, share, and
 🎉 **Let’s Learn, Share, and Grow Together!** 🎉  
 
 🌟 **[Start Your Learning Journey Now!](https://github.com/GylanSalih/Tutorials-Library)** 🌟  
-
----  
-
-Let me know if you want to add more sections, tweak the tone, or include specific links and assets (like stickers or a banner)! 😊
