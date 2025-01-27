@@ -8,12 +8,12 @@ Join us in creating a collaborative learning environment! 🚀
 
 ## 📖 Table of Contents  
 
-- [About the Repository](#about-the-repository-)  
-- [Why Contribute?](#why-contribute-)  
-- [Available Tutorials](#available-tutorials-)  
-- [How to Get Started](#how-to-get-started-)  
-- [Contributors](#contributors-)  
-- [License](#license-)  
+- [About the Repository](#-about-the-repository)  
+- [Why Contribute?](#-why-contribute)  
+- [Available Tutorials](#-available-tutorials)  
+- [How to Get Started](#-how-to-get-started)  
+- [Contributors](#-contributors)  
+- [License](#-license)  
 
 ---
 
@@ -46,7 +46,7 @@ Here’s a list of the topics we’ve covered so far:
 
 1. **HowToConfigVPS**  by [Gylan Salih](https://github.com/GylanSalih)
 2. **Introduction to Computer Networking**  by [Mahan Rahmani](https://github.com/mhnrhmni)
-3. **Your Tutorial** by You ...
+3. **Your Tutorial** by You ... <br><br>
 Stay tuned as we continue to add more tutorials! 🔥  
 
 ---
