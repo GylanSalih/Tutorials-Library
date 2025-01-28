@@ -1,6 +1,6 @@
 # 🌟 IT Knowledge Hub: Learn & Collaborate! 🌟  
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/065a7b4a-db15-483c-bd8a-51655b90e43f" alt="Tutorial Library Logo" width="500">
+  <img src="https://github.com/GylanSalih/Tutorials-Library/blob/main/Knowledge-Hub.png" alt="Tutorial Library Logo" width="500">
 </p>
 
 
