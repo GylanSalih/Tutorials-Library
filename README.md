@@ -65,7 +65,11 @@ Stay tuned as we continue to add more tutorials! 🔥
    - Fork the repository.  
    - Create a new branch for your contribution.  
    - Add your tutorial or improvement.  
-   - Submit a pull request!  
+   - Submit a pull request!
+
+## 📜 License  
+
+This project is licensed under the **MIT License**. Feel free to use, share, and contribute while respecting the terms of the license.  
 
 ## 🤝 Contributors  
 
@@ -99,10 +103,3 @@ A big THANK YOU to everyone who has contributed to this repository! 🙌
 </table>
 
 Want to see your name here? Contribute now! 💡  
-
-## 📜 License  
-
-This project is licensed under the **MIT License**. Feel free to use, share, and contribute while respecting the terms of the license.  
-
----
-🎉 **Let’s Learn, Share, and Grow Together!** 🎉  
