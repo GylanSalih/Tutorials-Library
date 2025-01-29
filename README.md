@@ -17,9 +17,21 @@ Join us in creating a collaborative learning environment! 🚀
 - [Available Tutorials](#-available-tutorials)  
 - [How to Get Started](#-how-to-get-started)  
 - [Contributors](#-contributors)  
-- [License](#-license)  
+- [License](#-license)
 
----
+- 
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Pushpin.png" alt="Pushpin" width="25" height="25" />Table of Contents</summary>
+  <ol>
+<li><a href="#about-the-project">About the Repository</a></li>
+<li><a href="#gallery">Why Contribute?</a></li>
+<li><a href="#built-with">Available Tutorials</a></li>
+<li><a href="#getting-started-with-the-installation">[How to Get Started</a></li>
+<li><a href="#changelogmd--roadmap">[Contributors</a></li>
+<li><a href="#contributing">License</a></li>
+  </ol>
+</details>
 
 ## 📚 About the Repository  
 
