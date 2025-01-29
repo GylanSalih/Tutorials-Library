@@ -82,8 +82,8 @@ A big THANK YOU to everyone who has contributed to this repository! 🙌
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/mhnrhmni">
-        <img src="https://github.com/mhnrhmni.png" width="100px;" alt="Mahan Rahmani"/>
+      <a href="https://github.com/Mahan-Rahmani">
+        <img src="https://avatars.githubusercontent.com/u/148265374?v=4" width="100px;" alt="Mahan Rahmani"/>
         <br />
         <sub><b>Mahan Rahmani</b></sub>
       </a>
