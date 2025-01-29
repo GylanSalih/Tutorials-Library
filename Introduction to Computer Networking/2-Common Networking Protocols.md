@@ -5,13 +5,13 @@ Welcome to this comprehensive guide on **common networking protocols**, specific
 ---
 
 ## Table of Contents  
-1. [What are Networking Protocols?](#what-are-networking-protocols)  
-2. [HyperText Transfer Protocol (HTTP)](#hypertext-transfer-protocol-http)  
-3. [File Transfer Protocol (FTP)](#file-transfer-protocol-ftp)  
-4. [Simple Mail Transfer Protocol (SMTP)](#simple-mail-transfer-protocol-smtp)  
-5. [Comparison of HTTP, FTP, and SMTP](#comparison-of-http-ftp-and-smtp)  
-6. [Conclusion](#conclusion)  
-7. [Author](#author)  
+1. [What are Networking Protocols?](#what-are-networking-protocols-)  
+2. [HyperText Transfer Protocol (HTTP)](#hypertext-transfer-protocol-http-)  
+3. [File Transfer Protocol (FTP)](#file-transfer-protocol-ftp-)  
+4. [Simple Mail Transfer Protocol (SMTP)](#simple-mail-transfer-protocol-smtp-)  
+5. [Comparison of HTTP, FTP, and SMTP](#comparison-of-http-ftp-and-smtp-%EF%B8%8F)  
+6. [Conclusion](#conclusion-)  
+7. [Author](#author-%EF%B8%8F)  
 
 ---
 
