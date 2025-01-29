@@ -51,7 +51,7 @@ Here’s a list of the topics we’ve covered so far:
 
 1. **HowToConfigVPS**  by [Gylan Salih](https://github.com/GylanSalih)
 2. **Introduction to Computer Networking**  by [Mahan Rahmani](https://github.com/mhnrhmni)
-3. **Your Tutorial** by You ... <br><br>
+3. **Your Tutorial** by [Ezra](https://github.com/xbze3)
 Stay tuned as we continue to add more tutorials! 🔥  
 
 ---
