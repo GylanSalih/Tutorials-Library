@@ -11,7 +11,7 @@ Welcome to this comprehensive guide on **common networking protocols**, specific
 4. [Simple Mail Transfer Protocol (SMTP)](#simple-mail-transfer-protocol-smtp-)  
 5. [Comparison of HTTP, FTP, and SMTP](#comparison-of-http-ftp-and-smtp-%EF%B8%8F)  
 6. [Conclusion](#conclusion-)  
-7. [Author](#author-)  
+7. [Author](#author-%EF%B8%8F)  
 
 ---
 
