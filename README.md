@@ -31,8 +31,6 @@ Our goal is to:
 2. Build a community where learners and educators collaborate to grow together.  
 3. Encourage sharing knowledge through contributions to this repository.  
 
----
-
 ## ✨ Why Contribute?  
 
 By contributing to this repository, you:  
@@ -43,8 +41,6 @@ By contributing to this repository, you:
 
 Together, we can make IT knowledge accessible to everyone! 🌍  
 
----
-
 ## 📂 Available Tutorials  
 
 Here’s a list of the topics we’ve covered so far:  
@@ -53,8 +49,6 @@ Here’s a list of the topics we’ve covered so far:
 2. **Introduction to Computer Networking**  by [Mahan Rahmani](https://github.com/mhnrhmni)
 3. **Interfaces and Cables** by [Ezra](https://github.com/xbze3)
 Stay tuned as we continue to add more tutorials! 🔥  
-
----
 
 ## 🚀 How to Get Started  
 
@@ -72,8 +66,6 @@ Stay tuned as we continue to add more tutorials! 🔥
    - Create a new branch for your contribution.  
    - Add your tutorial or improvement.  
    - Submit a pull request!  
-
----
 
 ## 🤝 Contributors  
 
@@ -107,8 +99,6 @@ A big THANK YOU to everyone who has contributed to this repository! 🙌
 </table>
 
 Want to see your name here? Contribute now! 💡  
-
----
 
 ## 📜 License  
 
