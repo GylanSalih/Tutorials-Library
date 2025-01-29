@@ -108,16 +108,6 @@ A big THANK YOU to everyone who has contributed to this repository! 🙌
 
 Want to see your name here? Contribute now! 💡  
 
-## 🤝 Contributors  
-
-A big THANK YOU to everyone who has contributed to this repository! 🙌  
-
-**Authors and Contributors:**  
-- [Gylan Salih](https://github.com/GylanSalih)  
-- [Mahan Rahmani](https://github.com/mhnrhmni)  
-- [Ezra](https://github.com/xbze3)
-Want to see your name here? Contribute now! 💡  
-
 ---
 
 ## 📜 License  
@@ -125,7 +115,4 @@ Want to see your name here? Contribute now! 💡
 This project is licensed under the **MIT License**. Feel free to use, share, and contribute while respecting the terms of the license.  
 
 ---
-
 🎉 **Let’s Learn, Share, and Grow Together!** 🎉  
-
-🌟 **[Start Your Learning Journey Now!](https://github.com/GylanSalih/Tutorials-Library)** 🌟  
