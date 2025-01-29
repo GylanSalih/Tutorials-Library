@@ -51,7 +51,7 @@ Here’s a list of the topics we’ve covered so far:
 
 1. **HowToConfigVPS**  by [Gylan Salih](https://github.com/GylanSalih)
 2. **Introduction to Computer Networking**  by [Mahan Rahmani](https://github.com/mhnrhmni)
-3. **Your Tutorial** by [Ezra](https://github.com/xbze3)
+3. **Interfaces and Cables** by [Ezra](https://github.com/xbze3)
 Stay tuned as we continue to add more tutorials! 🔥  
 
 ---
@@ -80,9 +80,42 @@ Stay tuned as we continue to add more tutorials! 🔥
 A big THANK YOU to everyone who has contributed to this repository! 🙌  
 
 **Authors and Contributors:**  
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/GylanSalih">
+        <img src="https://github.com/GylanSalih.png" width="100px;" alt="Gylan Salih"/>
+        <br />
+        <sub><b>Gylan Salih</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/mhnrhmni">
+        <img src="https://github.com/mhnrhmni.png" width="100px;" alt="Mahan Rahmani"/>
+        <br />
+        <sub><b>Mahan Rahmani</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/xbze3">
+        <img src="https://github.com/xbze3.png" width="100px;" alt="Ezra"/>
+        <br />
+        <sub><b>Ezra</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+Want to see your name here? Contribute now! 💡  
+
+## 🤝 Contributors  
+
+A big THANK YOU to everyone who has contributed to this repository! 🙌  
+
+**Authors and Contributors:**  
 - [Gylan Salih](https://github.com/GylanSalih)  
 - [Mahan Rahmani](https://github.com/mhnrhmni)  
-
+- [Ezra](https://github.com/xbze3)
 Want to see your name here? Contribute now! 💡  
 
 ---
