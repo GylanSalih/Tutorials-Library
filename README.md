@@ -8,28 +8,17 @@ Welcome to the **Tutorial Library**, your one-stop repository for learning and s
 
 Join us in creating a collaborative learning environment! 🚀  
 
----
 
-## 📖 Table of Contents  
-
-- [About the Repository](#-about-the-repository)  
-- [Why Contribute?](#-why-contribute)  
-- [Available Tutorials](#-available-tutorials)  
-- [How to Get Started](#-how-to-get-started)  
-- [Contributors](#-contributors)  
-- [License](#-license)
-
-- 
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Pushpin.png" alt="Pushpin" width="25" height="25" />Table of Contents</summary>
   <ol>
-<li><a href="#about-the-project">About the Repository</a></li>
-<li><a href="#gallery">Why Contribute?</a></li>
-<li><a href="#built-with">Available Tutorials</a></li>
-<li><a href="#getting-started-with-the-installation">[How to Get Started</a></li>
-<li><a href="#changelogmd--roadmap">[Contributors</a></li>
-<li><a href="#contributing">License</a></li>
+<li><a href="#-about-the-repository">About the Repository</a></li>
+<li><a href="#-why-contribute">Why Contribute?</a></li>
+<li><a href="#-available-tutorials">Available Tutorials</a></li>
+<li><a href="#-how-to-get-started">[How to Get Started</a></li>
+<li><a href="#-contributors">[Contributors</a></li>
+<li><a href="#-license">License</a></li>
   </ol>
 </details>
 
