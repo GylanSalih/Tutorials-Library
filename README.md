@@ -16,8 +16,8 @@ Join us in creating a collaborative learning environment! 🚀
 <li><a href="#-about-the-repository">About the Repository</a></li>
 <li><a href="#-why-contribute">Why Contribute?</a></li>
 <li><a href="#-available-tutorials">Available Tutorials</a></li>
-<li><a href="#-how-to-get-started">[How to Get Started</a></li>
-<li><a href="#-contributors">[Contributors</a></li>
+<li><a href="#-how-to-get-started">How to Get Started</a></li>
+<li><a href="#-contributors">Contributors</a></li>
 <li><a href="#-license">License</a></li>
   </ol>
 </details>
